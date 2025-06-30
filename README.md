@@ -1,4 +1,5 @@
-![Uploading 1706259182841.png…]()
+![1706259182841](https://github.com/user-attachments/assets/c29c5f7f-2c6e-40e2-b76c-9007a7954c77)
+
 
 # stroke_detection
 This data science project aims to predict the likelihood of a patient experiencing a stroke based on various input parameters such as gender, age, presence of diseases, and smoking status. The dataset provides relevant information about each patient, enabling the development of a predictive model.
