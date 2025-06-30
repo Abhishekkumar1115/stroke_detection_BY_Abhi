@@ -1,4 +1,5 @@
-![1706259182841](https://github.com/user-attachments/assets/c29c5f7f-2c6e-40e2-b76c-9007a7954c77)
+![04-3](https://github.com/user-attachments/assets/33791d6a-6e4c-4b82-9935-5ee2fe3bade2)
+
 
 
 # stroke_detection
