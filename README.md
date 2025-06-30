@@ -1,6 +1,4 @@
-![04-3](https://github.com/user-attachments/assets/33791d6a-6e4c-4b82-9935-5ee2fe3bade2)
-
-
+![Heart-Disease-Prediction-using-Machine-Learning - Copy](https://github.com/user-attachments/assets/a4711fbe-9cdc-456f-8343-89f9b1649fe2)
 
 # stroke_detection
 This data science project aims to predict the likelihood of a patient experiencing a stroke based on various input parameters such as gender, age, presence of diseases, and smoking status. The dataset provides relevant information about each patient, enabling the development of a predictive model.
